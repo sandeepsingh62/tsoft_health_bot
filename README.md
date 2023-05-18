@@ -23,6 +23,8 @@ The AYUSH healthcare chatbot provides information and guidance on AYUSH (Ayurved
 ## screenshots
 
 ![Screenshot (18)](https://github.com/PATHIADARSH/AYUSH/assets/118821151/dd60cd06-56f6-48d1-b4c7-06eed67560cf)
+![Screenshot (16)](https://github.com/PATHIADARSH/AYUSH/assets/118821151/32315711-b9e9-49f9-96a6-459d33b3c321)
+![Screenshot (17)](https://github.com/PATHIADARSH/AYUSH/assets/118821151/d34fd1f9-f84b-45e6-afeb-49f8ee2b2015)
 ![Screenshot (19)](https://github.com/PATHIADARSH/AYUSH/assets/118821151/4297802d-3983-4ab5-a125-03da849bfa24)
 ![Screenshot (20)](https://github.com/PATHIADARSH/AYUSH/assets/118821151/fdea433b-3464-4f78-9de5-0acd75a6cb4b)
 ![Screenshot (21)](https://github.com/PATHIADARSH/AYUSH/assets/118821151/7d419fae-4e5e-465b-a97d-d1821b21a6e5)
