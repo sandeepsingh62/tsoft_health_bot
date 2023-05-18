@@ -20,6 +20,16 @@ The AYUSH healthcare chatbot provides information and guidance on AYUSH (Ayurved
 - Azure Health Bot Services
 - Azure Static Web Apps
 
+## screenshots
+
+![Screenshot (18)](https://github.com/PATHIADARSH/AYUSH/assets/118821151/dd60cd06-56f6-48d1-b4c7-06eed67560cf)
+![Screenshot (19)](https://github.com/PATHIADARSH/AYUSH/assets/118821151/4297802d-3983-4ab5-a125-03da849bfa24)
+![Screenshot (20)](https://github.com/PATHIADARSH/AYUSH/assets/118821151/fdea433b-3464-4f78-9de5-0acd75a6cb4b)
+![Screenshot (21)](https://github.com/PATHIADARSH/AYUSH/assets/118821151/7d419fae-4e5e-465b-a97d-d1821b21a6e5)
+![Screenshot (22)](https://github.com/PATHIADARSH/AYUSH/assets/118821151/53474ac7-cd1a-4b4b-95c3-685fc0cce463)
+
+
+
 ## Getting Started
 To run the project locally or contribute to it, follow these steps:
 
