@@ -6,7 +6,7 @@
 This is an AYUSH healthcare chatbot developed using Azure Health Bot Services and hosted on Azure Static Web Apps.
 
 ## Website URL
-[Visit the website here](https://blue-flower-0d91cb410.3.azurestaticapps.net)
+[Visit the website here](https://pathiadarsh.github.io/AYUSH/)
 
 ## Description
 The AYUSH healthcare chatbot provides information and guidance on AYUSH (Ayurveda, Yoga, Unani, Siddha, and Homeopathy) treatments and remedies.
